@@ -1,0 +1,15 @@
+/* Add this to your CSS file or styles section */
+.dark {
+  background: linear-gradient(45deg, #1a1a1a, #333333);
+
+}
+.dark p{
+  color: #fff;
+}
+.dark label{
+  color: blue;
+
+}
+.light-mode{
+  background-color: #fff;
+}
